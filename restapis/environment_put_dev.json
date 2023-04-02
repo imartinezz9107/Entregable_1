@@ -1,0 +1,27 @@
+{
+	"id": "f60b847e-5729-429e-a079-0819bfdffc77",
+	"name": "put_dev",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "https://gorest.co.in",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "path",
+			"value": "/public/v2/users/561872",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "json_value",
+			"value": "{\"name\":\"user update\", \n\"gender\":\"male\", \n\"email\":\"user.test5@correo.com\",\n \"status\":\"active\"}",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-03-28T23:21:06.531Z",
+	"_postman_exported_using": "Postman/10.12.8"
+}
